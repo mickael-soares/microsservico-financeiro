@@ -1,7 +1,7 @@
 {
   "name": "distributed-wagering-processor",
   "version": "1.0.0",
-  "description": "Jungle Gaming Technical Challenge — Distributed Wagering Processor",
+  "description": "Distributed Wagering Processor — Event-Driven Financial Microservice with Ledger & SQS FIFO",
   "private": true,
   "scripts": {
     "start": "bun run src/main.ts",
