@@ -1,7 +1,7 @@
 {
-  "name": "distributed-wagering-processor",
+  "name": "microsservico-financeiro",
   "version": "1.0.0",
-  "description": "Distributed Wagering Processor — Event-Driven Financial Microservice with Ledger & SQS FIFO",
+  "description": "Microsserviço Financeiro Distribuído — Processamento de apostas com Ledger Imutável, Idempotência e AWS SQS FIFO",
   "private": true,
   "scripts": {
     "start": "bun run src/main.ts",

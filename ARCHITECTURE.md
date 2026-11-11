@@ -1,4 +1,4 @@
-# Architecture & Design Decisions — Distributed Wagering Processor
+# Arquitetura e Decisões de Design — Microsserviço Financeiro Distribuído
 
 Este documento detalha as decisões arquiteturais, garantias de invariantes financeiras, controle de concorrência entre múltiplas instâncias, idempotência persistente, mensageria atômica (Transactional Inbox/Outbox) e resultados experimentais de carga.
 

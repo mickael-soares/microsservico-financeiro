@@ -1,4 +1,4 @@
-# Distributed Wagering Processor
+# Microsserviço Financeiro Distribuído
 
 Serviço financeiro distribuído para processamento de transações de apostas (*wagering*) de múltiplos provedores de jogos via **API HTTP** e mensageria assíncrona (**AWS SQS FIFO**), com garantias estritas de precisão monetária, controle de concorrência por carteira, idempotência persistente, *Transactional Inbox/Outbox* e reconciliação contábil via *Ledger* imutável.
 
