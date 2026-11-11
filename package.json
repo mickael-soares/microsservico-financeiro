@@ -1,7 +1,7 @@
 {
   "name": "microsservico-financeiro",
   "version": "1.0.0",
-  "description": "Microsserviço Financeiro Distribuído — Processamento de apostas com Ledger Imutável, Idempotência e AWS SQS FIFO",
+  "description": "Microsserviço Financeiro Distribuído — Processamento de transações de saldo, Ledger Imutável, Idempotência e AWS SQS FIFO",
   "private": true,
   "scripts": {
     "start": "bun run src/main.ts",

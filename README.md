@@ -1,6 +1,6 @@
 # Microsserviço Financeiro Distribuído
 
-Serviço financeiro distribuído para processamento de transações de apostas (*wagering*) de múltiplos provedores de jogos via **API HTTP** e mensageria assíncrona (**AWS SQS FIFO**), com garantias estritas de precisão monetária, controle de concorrência por carteira, idempotência persistente, *Transactional Inbox/Outbox* e reconciliação contábil via *Ledger* imutável.
+Serviço financeiro distribuído de alta concorrência para processamento de transações de saldo, liquidação de débitos/créditos e conciliação entre múltiplos provedores e plataformas digitais via **API HTTP** e mensageria assíncrona (**AWS SQS FIFO**), com garantias estritas de precisão monetária, controle de concorrência por carteira, idempotência persistente, *Transactional Inbox/Outbox* e reconciliação contábil via *Ledger* imutável.
 
 > **Arquitetura, Decisões Técnicas e Trade-offs:** consulte o documento [`ARCHITECTURE.md`](./ARCHITECTURE.md).
 
